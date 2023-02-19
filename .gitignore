@@ -1,0 +1,8 @@
+### VS Code ###
+.vscode/
+
+### For mac ###
+.DS_Store
+
+### WIP ###
+jdk-17.0.5/
